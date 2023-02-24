@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+body{
+    background-color: rgb(48, 125, 225);
+    height: 100vh;
+     
+}
+
+.cabecalho__principal{
+    color: white;
+    text-align: center;
+}
+
+.cabecalho__titulo{
+    padding: 30px;
+}
+
+.area__principal{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 8px black;
+    text-align: center;
+    
+
+}
+#imagem{
+    padding: 10px;
+    text-align: center;
+    border-radius: 50%;
+
+}
+input{
+    margin: 6px;
+}
+
+.rodape{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    margin-top: 50px;
+}
